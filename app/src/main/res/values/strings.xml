@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextFieldIssue</string>
+    <string name="title_activity_compose_test">ComposeTestActivity</string>
+</resources>
